@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/internship-task-01/static/css/main.6ab8a161.chunk.css",
+    "main.js": "/internship-task-01/static/js/main.0ab0aa71.chunk.js",
+    "main.js.map": "/internship-task-01/static/js/main.0ab0aa71.chunk.js.map",
+    "runtime-main.js": "/internship-task-01/static/js/runtime-main.da15a4b3.js",
+    "runtime-main.js.map": "/internship-task-01/static/js/runtime-main.da15a4b3.js.map",
+    "static/js/2.65a00bdd.chunk.js": "/internship-task-01/static/js/2.65a00bdd.chunk.js",
+    "static/js/2.65a00bdd.chunk.js.map": "/internship-task-01/static/js/2.65a00bdd.chunk.js.map",
+    "index.html": "/internship-task-01/index.html",
+    "static/css/main.6ab8a161.chunk.css.map": "/internship-task-01/static/css/main.6ab8a161.chunk.css.map",
+    "static/js/2.65a00bdd.chunk.js.LICENSE.txt": "/internship-task-01/static/js/2.65a00bdd.chunk.js.LICENSE.txt",
+    "static/media/card.8f3aafb5.png": "/internship-task-01/static/media/card.8f3aafb5.png",
+    "static/media/check-mark.f49ddd38.svg": "/internship-task-01/static/media/check-mark.f49ddd38.svg",
+    "static/media/coin.7b4622f2.svg": "/internship-task-01/static/media/coin.7b4622f2.svg",
+    "static/media/Home.scss": "/internship-task-01/static/media/home.5825bf44.jpg",
+    "static/media/user.91695fe6.svg": "/internship-task-01/static/media/user.91695fe6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da15a4b3.js",
+    "static/js/2.65a00bdd.chunk.js",
+    "static/css/main.6ab8a161.chunk.css",
+    "static/js/main.0ab0aa71.chunk.js"
+  ]
+}
